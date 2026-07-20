@@ -14,16 +14,14 @@ This program allows users to enter stock names and quantities, calculates the to
 - Combines quantities if the same stock is entered multiple times
 - Displays a full portfolio summary
 - Calculates total investment amount
-- Option to save the summary as a `.txt` file
-- Handles invalid stock names and invalid number inputs gracefully
+
 
 ## 🛠 Concepts Used
 
 - Dictionaries
 - Input/Output handling
 - Basic arithmetic operations
-- File handling (`.txt` output)
-- Exception handling (`try-except`)
+
 
 ## 🚀 How to Run
 
